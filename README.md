@@ -2,17 +2,15 @@
 
 Meu nome é Roger Ferreira. Sou Formado em Ciências da Computação, Trabalho como Programador FullStack a mais de 10 anos.
 <br>
-Experiência com sistema de gerenciamento.<br>
--Financeiro<br>
--Administrativo<br>
--Estoque<br>
--Educacional<br>
--Musical<br>
--Plataforma multimídia<br>
-<br>
--Sistemas Web<br>
--Sistemas Mobile<br>
--Sistemas Desktop
+| Experiência com sistemas  | Plataformas   |---| Experiência com sistemas  | Plataformas   |
+| :--------: | :--------: | ------- | :--------: | :--------: |
+| Financeiro|🖥️ 📱|  | Loja Virtual|🖥️|
+| Administrativo|🖥️ 📱|  | Moodle|🖥️ 📱|
+| Estoque|🖥️ 📱|  | Pagamentos|🖥️ 📱|
+| Educacional|🖥️ 📱|  | Pix|🖥️ 📱|
+| Musical|🖥️|  | Marketing Digital|🖥️ 📱|
+| Multimídia| 🖥️ 📱|  | Afiliação|🖥️ 📱|
+
 
 <br>
 <br>
